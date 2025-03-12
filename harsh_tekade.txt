@@ -1,1 +1,7 @@
 india jeet gya champions trophy 2025
+
+ git config --global user.email harshatekade99@gmail.com
+  git config --global user.name Harshal-Tekade
+
+2nd change to be noted
+
